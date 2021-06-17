@@ -1,4 +1,4 @@
-# flutter_bloc_v611_demo
+# flutter_bloc_demo
 
 A new Flutter project.
 
